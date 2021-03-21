@@ -3,37 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://codmad.github.io/%60/categories/</loc>
+    <loc>https://codmad.github.io/categories/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/tags/general/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/categories/general/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/post/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/tags/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/post/to_liuxi/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/</loc>
+    <lastmod>2021-03-21T17:12:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codmad.github.io/tags/na/</loc>
     <lastmod>2021-02-16T19:16:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://codmad.github.io/%60/tags/na/</loc>
+    <loc>https://codmad.github.io/categories/na/</loc>
     <lastmod>2021-02-16T19:16:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://codmad.github.io/%60/categories/na/</loc>
-    <lastmod>2021-02-16T19:16:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://codmad.github.io/%60/post/</loc>
-    <lastmod>2021-02-16T19:16:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://codmad.github.io/%60/post/some/</loc>
-    <lastmod>2021-02-16T19:16:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://codmad.github.io/%60/tags/</loc>
-    <lastmod>2021-02-16T19:16:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://codmad.github.io/%60/</loc>
+    <loc>https://codmad.github.io/post/some/</loc>
     <lastmod>2021-02-16T19:16:11+08:00</lastmod>
   </url>
   
